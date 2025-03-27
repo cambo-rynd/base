@@ -1,4 +1,4 @@
-module github.com/hbstack/base
+module github.com/cambo-rynd/base
 
 go 1.18
 
